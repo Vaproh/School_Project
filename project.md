@@ -436,7 +436,7 @@ for student, marks in students_marks.items():
 **18. Create a database:**
 
 ```sql
-CREATE DATABASE IF NOT EXISTS student_database;  -- Replace 'student_database' with your desired name
+CREATE DATABASE student_database;
 ```
 
 **19. Create a student table:**
